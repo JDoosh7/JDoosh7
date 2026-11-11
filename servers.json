@@ -112,4 +112,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "jdoosh7",       
+    "address": "https://anisette-v3-server-axgq.onrender.com"
 }
